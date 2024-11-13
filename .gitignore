@@ -1,0 +1,4 @@
+/express-backend/dist
+/express-backend/node_modules
+/worker/dist
+/worker/node_modules
